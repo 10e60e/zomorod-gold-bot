@@ -1,0 +1,1 @@
+# zomorod-gold-bot
